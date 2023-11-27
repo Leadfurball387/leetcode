@@ -18,5 +18,14 @@
     <ClCompile Include="hello_world.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="two_sum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="roman_to_int.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sqrt_x.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
